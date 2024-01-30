@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igao94
 - 👀 I’m interested in any help in learning.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my e-mail igao998@gmail.com.
 
